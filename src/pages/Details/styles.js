@@ -5,7 +5,7 @@ export default StyleSheet.create({
     container: {
         flex: 1,
         paddingHorizontal: 24,
-        paddingTop: Constants.statusBarHeight + 20
+        paddingTop: Constants.statusBarHeight + 15
     },
 
     header: {
@@ -18,8 +18,8 @@ export default StyleSheet.create({
         padding: 24,
         borderRadius: 8,
         backgroundColor: '#fff',
-        marginBottom: 16,
-        marginTop: 48
+        marginBottom: 13,
+        marginTop: 13
     },
 
     incidentProperty: {
@@ -39,12 +39,12 @@ export default StyleSheet.create({
         padding: 24,
         borderRadius: 8,
         backgroundColor: '#fff',
-        marginBottom: 16,
+        marginBottom: 13,
     },
 
     heroTitle: {
         fontWeight: 'bold',
-        fontSize: 20,
+        fontSize: 15,
         color: '#13131a',
         lineHeight: 30
     },
