@@ -27,3 +27,10 @@ Este repositório contém a parte do *mobile client* em **React Native** para o 
 6. A dependência para constantes foi adicionada com o seguinte comando:
 
 ```expo install expo-constants```
+
+7. A dependência para envio de e-mail foi adicionada com o seguinte comando:
+
+```expo install expo-mail-composer```
+
+8. A dependência para envio de mensagem WhatsApp foi adicionada com o seguinte comando:
+
