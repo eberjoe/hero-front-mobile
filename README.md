@@ -28,9 +28,14 @@ Este repositório contém a parte do *mobile client* em **React Native** para o 
 
 ```expo install expo-constants```
 
-7. A dependência para envio de e-mail foi adicionada com o seguinte comando:
+7. A dependência para composição de e-mail foi adicionada com o seguinte comando:
 
 ```expo install expo-mail-composer```
 
-8. A dependência para envio de mensagem WhatsApp foi adicionada com o seguinte comando:
+8. O *http client* foi instalado com o seguinte comando:
 
+```npm install axios```
+
+9. A dependência de internacionalização necessária para **Android** foi adicionada com o seguinte comando:
+
+```npm install intl```
