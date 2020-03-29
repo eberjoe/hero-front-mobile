@@ -23,3 +23,7 @@ Este repositório contém a parte do *mobile client* em **React Native** para o 
 5. A dependência para a navegação estilo pilha foi adicionada com o seguinte comando:
 
 ```npm install @react-navigation/stack```
+
+6. A dependência para constantes foi adicionada com o seguinte comando:
+
+```expo install expo-constants```
